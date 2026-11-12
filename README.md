@@ -13,3 +13,11 @@ Web開発を学習しています。
 - **フロントエンド**: HTML / CSS / Blade
 - **データベース**: MySQL
 - **開発環境・ツール**: Docker / Git / GitHub / Postman
+
+---
+
+## 📂 学習成果物
+
+これまでの学習で作成したアプリケーションを紹介します。
+
+- [task-crud-practice](https://github.com/miuratouya021/task-crud-practice) — Laravelを使用したタスク管理APIの実装
