@@ -23,7 +23,7 @@ Web開発を学習しています。
 - [task-crud-practice](https://github.com/miuratouya021/task-crud-practice) — Laravelを使用したタスク管理APIの実装
 - [auth-app-practice](https://github.com/miuratouya021/auth-app-practice) — Laravel Fortifyを使用したログイン・認証機能の実装
 - [security-app-practice](https://github.com/miuratouya021/security-app-practice) — Laravelを使用したお問い合わせフォームとセキュリティ対策の実装
-  - [middleware-app-practice](https://github.com/miuratouya021/middleware-app-practice) — ミドルウェアを使用した管理者ページのアクセス制御
+- [middleware-app-practice](https://github.com/miuratouya021/middleware-app-practice) — ミドルウェアを使用した管理者ページのアクセス制御
 - [authorization-app-practice](https://github.com/miuratouya021/authorization-app-practice) — Laravel Policyを使用した投稿の認可処理
 - [debugging-app-practice](https://github.com/miuratouya021/debugging-app-practice) — Laravelのデバッグ機能とログ出力の実践
 - [testing-app-practice](https://github.com/miuratouya021/testing-app-practice) — Featureテストによる機能の動作確認
