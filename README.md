@@ -38,3 +38,11 @@ Web開発を学習しています。
 - [php-basics-practice](https://github.com/miuratouya021/php-basics-practice) — PHPの基本構文の学習
 - [my-first-git](https://github.com/miuratouya021/my-first-git) — GitとGitHubの基本操作の実践
 - [github-collab-practice](https://github.com/miuratouya021/github-collab-practice) — Issue・ブランチ・Pull Requestを使用した共同開発フローの実践
+
+---
+
+## 🌱 これから挑戦したいこと
+
+Laravelを使ったWebアプリケーションの開発力を高めながら、将来的にはゲーム開発にも挑戦したいと考えています。
+
+特に、自分で考えたアイデアを実際に動くアプリケーションとして形にできるエンジニアを目指しています。
