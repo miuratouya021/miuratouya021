@@ -33,3 +33,8 @@ Web開発を学習しています。
 - [php-form-practice](https://github.com/miuratouya021/php-form-practice) — PHPによるフォーム処理の実践
 - [php-oop-practice](https://github.com/miuratouya021/php-oop-practice) — PHPのクラスとオブジェクト指向の学習
 - [self-introduction-practice](https://github.com/miuratouya021/self-introduction-practice) — HTMLを使用した自己紹介ページの作成
+- [setup-app-practice](https://github.com/miuratouya021/setup-app-practice) — Laravelの開発環境構築と基本操作の学習
+- [php-control-practice](https://github.com/miuratouya021/php-control-practice) — PHPの条件分岐と繰り返し処理の学習
+- [php-basics-practice](https://github.com/miuratouya021/php-basics-practice) — PHPの基本構文の学習
+- [my-first-git](https://github.com/miuratouya021/my-first-git) — GitとGitHubの基本操作の実践
+- [github-collab-practice](https://github.com/miuratouya021/github-collab-practice) — Issue・ブランチ・Pull Requestを使用した共同開発フローの実践
