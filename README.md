@@ -28,3 +28,8 @@ Web開発を学習しています。
 - [debugging-app-practice](https://github.com/miuratouya021/debugging-app-practice) — Laravelのデバッグ機能とログ出力の実践
 - [testing-app-practice](https://github.com/miuratouya021/testing-app-practice) — Featureテストによる機能の動作確認
 - [api-setup-practice](https://github.com/miuratouya021/api-setup-practice) — Laravel APIの開発環境構築とPostmanによる動作確認
+- [blade-app-practice](https://github.com/miuratouya021/blade-app-practice) — Laravel Bladeを使用した画面表示の実装
+- [profile-app-practice](https://github.com/miuratouya021/profile-app-practice) — RouteとControllerを使用したプロフィールページの実装
+- [php-form-practice](https://github.com/miuratouya021/php-form-practice) — PHPによるフォーム処理の実践
+- [php-oop-practice](https://github.com/miuratouya021/php-oop-practice) — PHPのクラスとオブジェクト指向の学習
+- [self-introduction-practice](https://github.com/miuratouya021/self-introduction-practice) — HTMLを使用した自己紹介ページの作成
