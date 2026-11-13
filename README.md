@@ -21,3 +21,7 @@ Web開発を学習しています。
 これまでの学習で作成したアプリケーションを紹介します。
 
 - [task-crud-practice](https://github.com/miuratouya021/task-crud-practice) — Laravelを使用したタスク管理APIの実装
+
+- [auth-app-practice](https://github.com/miuratouya021/auth-app-practice) — Laravel Fortifyを使用したログイン・認証機能の実装
+
+- - [security-app-practice](https://github.com/miuratouya021/security-app-practice) — Laravelを使用したお問い合わせフォームとセキュリティ対策の実装
